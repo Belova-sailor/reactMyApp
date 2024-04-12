@@ -21,11 +21,7 @@ class App extends Component {
         { name: "TypeScript", src: "../src/assets/typescript.png", id: 6 },
         { name: "PostgreSQL", src: "../src/assets/postgres.png", id: 7 },
         { name: "React", src: "../src/assets/react.png", id: 8 },
-        {
-          name: "Алгоритмы и структуры данных",
-          src: "../src/assets/algorithms.png",
-          id: 9,
-        },
+        { name: "Алгоритмы и структуры данных", src: "../src/assets/algorithms.png", id: 9,},
         { name: "Webpack", src: "../src/assets/webpack.png", id: 10 },
         { name: "NodeJS", src: "../src/assets/nodejs.png", id: 11 },
         { name: "NPM", src: "../src/assets/npm.png", id: 12 },
