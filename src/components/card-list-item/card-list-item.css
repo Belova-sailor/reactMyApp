@@ -1,0 +1,28 @@
+.card {
+  width: 200px;
+  height: 300px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: floralwhite;
+  border-radius: 4px;
+  box-shadow: 15px 15px 30px rgb(0, 0, 0, 0.15);
+}
+
+.img_card {
+  width: 150px;
+  height: 150px;
+  padding-right: 20px;
+  padding-left: 20px;
+  object-position: center;
+  object-fit: contain;
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.card h2 {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+}
