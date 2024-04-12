@@ -37,9 +37,12 @@ class App extends Component {
 
     return (
       <div className="app">
-        <CardAboutMe dataAboutMe={dataAboutMe} />
-        <CardList data={data} />
-        <CardFuture dataFuture={dataFuture} />
+        <CardAboutMe 
+          dataAboutMe={dataAboutMe} />
+        <CardList 
+          data={data} />
+        <CardFuture 
+          dataFuture={dataFuture} />
       </div>
     );
   }
